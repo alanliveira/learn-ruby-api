@@ -1,21 +1,6 @@
-# Mesadão
+# Aula 02 - Iniciando o nosso projeto
 
-Esse projeto tem como objetivo criar um sistema de receitas e despesas para o gerenciamento das mesadas. Nessa Fase fase o aluno irá aprender os seguintes tópicos.
-
-- Uso de máquinas virtuais ou subsistemas linux
-- instalação de programa pelo basj/terminal
-- **Criação de api com rails**
-- **Modelagem de dados**
-- **Autentificação de usuários**
-- **Trabalhando com as requisições**
-- Testes de software unitários e requisoções
-- Documentação de api com Postman ou Insomnia
-
-## Instalação
-
-> No window se você instalou o ruby pelo programa ruby installer, recomento que baixa versões com o dev kit superior a 2.3
-
-- mostrar a instalação do mysql e config no db
+Nessa aula iremos criar um projeto de api em rails, fazendo a modelação dos models e preparar as rotas de comunicação
 
 ## Criação de API com Rails
 
